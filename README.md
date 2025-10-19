@@ -13,7 +13,7 @@ This notebook:
 This entire project runs on **Google Colab**, requiring no installation on your machine.
 
 # Objectives
-- **Data Acquisition: **Collect Financial time-series data from public sources.
-- **Data Processing: **Clean and structure the data for analysis.
-- **Visualization: **Create simple but interactive charts to explore trends.
-- **Real-Time Streaming: **Fetch and visualize live updates for tickers.
+- **Data Acquisition:** Collect Financial time-series data from public sources.
+- **Data Processing:** Clean and structure the data for analysis.
+- **Visualization:** Create simple but interactive charts to explore trends.
+- **Real-Time Streaming:** Fetch and visualize live updates for tickers.
